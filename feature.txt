@@ -1,1 +1,2 @@
 This file is in testing_features branch after which it will be mearged to MAster branch
+"Editing this feature branch file, then it will be pushed to remote repository"
